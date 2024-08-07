@@ -1,8 +1,44 @@
 body {
-    background: saddlebrown;
-    color: white;
-    font-size: 25px;
-    font-weight: bold;
-    text-align: center;
-    margin-top: 40px;
+    margin: 0px;
+}.red {
+    background: #c71226;
+    height: 100px;
+    margin-top: 10px;
 }
+
+.blue {
+    background: #0d1b88;
+    height: 100px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.green {
+    background: #397327;
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+/* .main {
+    margin-top: 100px;
+}
+
+
+.logo-img {
+    
+    display: block;
+    width: 300px;
+}
+
+.search-input {
+    display: block;
+    width: 400px;
+} */
