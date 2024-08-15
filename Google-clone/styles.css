@@ -1,3 +1,16 @@
+button {
+    color: #0f1419;
+    border: 1px solid #cfd9de;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 20px;
+    font-weight: bold;
+} 
+
+
 /* body {
     margin: 0px;
 }.red {
@@ -38,7 +51,7 @@
 } */
 
 
-.card {
+/* .card {
     color: #222222;
     background-color: lightgray;
     width: 300px;
@@ -53,7 +66,7 @@
     padding-right: 20px;
     padding-left: 20px;
     padding-bottom: 20px;
-}
+} */
 
 
 
