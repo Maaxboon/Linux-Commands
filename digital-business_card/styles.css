@@ -4,5 +4,10 @@ body {
 
 .avatar {
     width: 150px;
-    height: 200px;
+    height: 140px;
+}
+
+.card {
+    border: dotted blue;
+    padding: 20px;
 }
