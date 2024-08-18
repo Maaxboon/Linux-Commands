@@ -5,9 +5,11 @@ body {
 .avatar {
     width: 150px;
     height: 140px;
+    border: 1px dotted blue;
 }
 
 .card {
-    border: dotted blue;
+    border: 1px dotted blue;
     padding: 20px;
+    display: flex;
 }
