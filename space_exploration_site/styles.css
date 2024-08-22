@@ -11,3 +11,7 @@ body {
     border: none;
     font-family: inherit;
 }
+
+.underline {
+    text-decoration: underline;
+}
