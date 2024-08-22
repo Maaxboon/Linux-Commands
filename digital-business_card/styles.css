@@ -7,7 +7,7 @@ body {
     width: 150px;
     height: 150px;
     border: 1px dotted blue;
-    #d8cef
+    border-radius: 6px;
 }
 
 .card {
@@ -20,4 +20,6 @@ body {
     background: #ddebf8;
     color: #2b2839;
     border-bottom: 6px solid #d8cefe;
+    border: 0px;
+    border-radius: 10px;
 }
