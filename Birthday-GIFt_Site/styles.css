@@ -16,8 +16,14 @@ h1, h2, h3, h4, p {
     border: 4px solid brown;
   }
 
-  h2, h4 {
-    background-color: brown;
+  #bday-age {
+    background: brown;
+    padding: 2px 4px;
+    border-radius: 5px;
+  }
+  
+  #bday-date {
+    background: brown;
   }
 
   #header {
