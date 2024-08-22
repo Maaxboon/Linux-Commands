@@ -20,7 +20,7 @@ h1, h2, h3, h4, p {
     background: brown;
     padding: 3px 6px;
     border-radius: 5px;
-    margin-bottom: 10px;
+    margin: 10px 0 10px 0;
   }
   
   #bday-date {
