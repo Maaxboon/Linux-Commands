@@ -1,11 +1,18 @@
 body {
     text-align: center;
-    font-family: "Happy Monkey", system-ui;
+    font-family: "Happy Monkey", cursive;
+    background:  #deb887;
+    color: #ffffff;
+}
+
+h1, h2, h3, h4, p {
+    text-shadow: 0px 0px 1px black;
 }
 
 #bff-img {
     width: 150px;
     height: 150px;
     border-radius: 50%;
+    border: 3px solid brown;
   }
   
